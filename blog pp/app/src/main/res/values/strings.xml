@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blog Reading</string>
+    <string name="menu">menu</string>
+    <string name="blogicon">blogicon</string>
+</resources>
